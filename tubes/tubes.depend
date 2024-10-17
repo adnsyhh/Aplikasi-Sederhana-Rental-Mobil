@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1702379616 source:c:\users\adnan\onedrive\documents\tubes\tubes\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1702379776 c:\users\adnan\onedrive\documents\tubes\tubes\tubes\tubes.h
+	<iostream>
+
+1702636994 source:c:\users\wiraldy\documents\telkom univ sem 3\stuktur data program\tubes2\tubes\tubes\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1702636994 c:\users\wiraldy\documents\telkom univ sem 3\stuktur data program\tubes2\tubes\tubes\tubes\tubes.h
+	<iostream>
+
+1703998136 source:c:\users\adnan\onedrive\documents\tubes2\tubes\tubes\tubes\main.cpp
+	"tubes.h"
+
+1704000466 c:\users\adnan\onedrive\documents\tubes2\tubes\tubes\tubes\tubes.h
+	<iostream>
+
+1704055257 source:c:\users\adnan\onedrive\documents\tubes2\tubes\tubes\tubes\tubes.cpp
+	"tubes.h"
+
+1704107403 source:c:\users\wiraldy\documents\telkom univ sem 3\stuktur data program\tubes3\tubes3\tubes\tubes\main.cpp
+	"tubes.h"
+
+1704118089 c:\users\wiraldy\documents\telkom univ sem 3\stuktur data program\tubes3\tubes3\tubes\tubes\tubes.h
+	<iostream>
+
+1704117777 source:c:\users\wiraldy\documents\telkom univ sem 3\stuktur data program\tubes3\tubes3\tubes\tubes\tubes.cpp
+	"tubes.h"
+
+1704118553 source:c:\users\adnan\downloads\tubes3\tubes3\tubes3\tubes\tubes\main.cpp
+	"tubes.h"
+
+1704119641 c:\users\adnan\downloads\tubes3\tubes3\tubes3\tubes\tubes\tubes.h
+	<iostream>
+
+1704119303 source:c:\users\adnan\downloads\tubes3\tubes3\tubes3\tubes\tubes\tubes.cpp
+	"tubes.h"
+
